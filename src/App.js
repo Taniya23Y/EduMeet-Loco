@@ -5,8 +5,8 @@ import {
   useNavigationType,
   useLocation,
 } from "react-router-dom";
-import HOMEPage from "./pages/h-o-m-e-page";
-import PrachiTunePura from "./pages/prachi-tune-pura";
+import HOMEPage from "./pages/home-page";
+import PrachiTunePura from "./pages/about-half";
 import AboutPage from "./pages/about-page";
 import MaskGroup from "./pages/mask-group";
 
